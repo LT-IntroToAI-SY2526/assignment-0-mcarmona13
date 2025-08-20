@@ -34,7 +34,7 @@ Each repo can have a README to explain what your project is about and how to use
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm most excited to learn about how AI can better understand & generate human emotions through natural language. This could make interactions with AI more meaningful, especially in fields like mental health support or education. As AI becomes more emotionally intelligent, it could offer more personalized and supportive experiences for users.
 
 ---
 
