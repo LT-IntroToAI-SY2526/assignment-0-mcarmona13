@@ -9,20 +9,16 @@
 All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
-
-[Git is a distributed Version Control System (VCS), which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
-
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
-
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.]
+Git is a tool that helps you track changes in your code and work with others on the same project without losing progress.
+GitHub is an online platform that makes using Git easier, with tools and a community to help you build and share projects.
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
-
-[Your answer here]
+Committing saves changes you've made to your project with a message explaining what you did.
+Pushing sends those saved changes to GitHub so others can see your updates.
 
 **3. What is a repository and what does it contain?**
-
-[Your answer here]
+Repositories are where all your project files live on GitHub, and you’ll have more of them as you keep working on projects.
+Each repo can have a README to explain what your project is about and how to use it.
 
 ---
 
