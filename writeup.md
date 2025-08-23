@@ -26,7 +26,7 @@ Each repo can have a README to explain what your project is about and how to use
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+[Paste your profile repository link here {https://github.com/mcarmona13} - it should look something like: https://github.com/yourusername/yourusername]
 
 ---
 
